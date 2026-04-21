@@ -334,3 +334,4 @@ Every fraud flag includes:
 
 ---
 Video: https://drive.google.com/file/d/1zoYlF5hSWA3wn_ycDW3UI2vHJ1R2EFkf/view?usp=drive_link
+Live app demo: https://comdetect.streamlit.app/ (without camera, simple demo)
