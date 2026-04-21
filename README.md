@@ -161,13 +161,11 @@ The system analyzes each transaction with the following criteria:
 ```
 ComDetect/
 ├── main.py                 # Primary Streamlit application
-├── app.py                  # Alternative Streamlit application
+├── app.py                  # Alternative Streamlit application (with face login & voice commands)
 ├── requirements.txt        # Python package dependencies
-├── faces/
-│   └── user.jpg           # Sample facial recognition image
 ├── venv/                  # Virtual environment (excluded from repo)
-├── ComDetect_AI.pptx      # Project presentation
-├── Prompt.docx            # Prompt engineering documentation
+├── ComDetect_AI.pptx      # Project presentation (excluded from repo)
+├── Prompt.docx            # Prompt engineering documentation (excluded from repo)
 └── README.md              # This file
 ```
 
