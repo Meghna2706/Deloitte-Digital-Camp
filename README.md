@@ -108,11 +108,6 @@ All dependencies are listed in `requirements.txt`.
 
 ### Running the Application
 
-**Using main.py (Recommended)**
-```bash
-streamlit run main.py
-```
-
 **Using app.py**
 ```bash
 streamlit run app.py
@@ -160,8 +155,8 @@ The system analyzes each transaction with the following criteria:
 
 ```
 ComDetect/
-├── main.py                 # Primary Streamlit application
-├── app.py                  # Alternative Streamlit application (with face login & voice commands)
+├── main.py                 # Streamlit application
+├── app.py                  # Primary Streamlit application (with face login & voice commands)
 ├── requirements.txt        # Python package dependencies
 ├── venv/                  # Virtual environment (excluded from repo)
 ├── ComDetect_AI.pptx      # Project presentation (excluded from repo)
@@ -336,3 +331,6 @@ Every fraud flag includes:
 **Version**: 1.0.0  
 **Last Updated**: April 2026  
 **Status**: Active Development
+
+---
+Video: https://drive.google.com/file/d/1zoYlF5hSWA3wn_ycDW3UI2vHJ1R2EFkf/view?usp=drive_link
