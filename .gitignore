@@ -40,6 +40,7 @@ wheels/
 # Environment variables
 .env
 .env.local
+*.mp4
 
 # IDE
 .vscode/
